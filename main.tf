@@ -15,7 +15,7 @@
   }
   
   resource "random_string" "demorandoemstring" {
-    length = 8
+    length = 5
     upper   = false        
     special = false
   }
